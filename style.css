@@ -1,0 +1,73 @@
+body{
+    margin: 0;/* отступ пикселей*/
+
+}
+
+h1{
+    padding: 25px;/*высота от h1*/
+    margin: 0;
+}
+header{
+
+
+    height:650px;/*высота блока*/
+    background-color: black;/*цвет фона*/
+    color: red;/*цвет текста ЪуЪ*/
+    text-align:center ;/* место*/
+    font-size: 40px; /*размер шрифта*/
+    background-image: url(https://files.facepunch.com/paddy/20240207/rust_lunar2024_hero_01.jpg);
+
+
+font-family:"Bahnschrift" ;}
+
+
+
+
+
+
+
+
+
+
+main{
+
+
+height: 1000px;
+background-color: darkgreen;
+color: white;
+text-align: left;
+font-size: 25px;
+background-image: url(https://files.facepunch.com/paddy/20220530/trio_players.jpg);
+padding: 20px;
+display: flex;
+}
+.left{
+    width: 50%;
+
+}
+
+.right{
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+footer{
+    height: 500px;
+    color: black;
+    text-align: center;
+    font-size: 45;
+
+}
+   
+
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+
